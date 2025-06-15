@@ -1,0 +1,602 @@
+[
+    {
+        "nombre": "Clavos",
+        "categoria": "Herramientas manuales",
+        "precio": 322885,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Clavos"
+    },
+    {
+        "nombre": "Gafas de seguridad",
+        "categoria": "Herramientas manuales",
+        "precio": 245329,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Gafas+de+seguridad"
+    },
+    {
+        "nombre": "Mascarilla",
+        "categoria": "Materiales de construcción",
+        "precio": 474310,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Mascarilla"
+    },
+    {
+        "nombre": "Canaleta",
+        "categoria": "Herramientas eléctricas",
+        "precio": 81187,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Canaleta"
+    },
+    {
+        "nombre": "Bombillo LED",
+        "categoria": "Electricidad",
+        "precio": 246030,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Bombillo+LED"
+    },
+    {
+        "nombre": "Pistola de calor",
+        "categoria": "Pinturas y acabados",
+        "precio": 330429,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pistola+de+calor"
+    },
+    {
+        "nombre": "Mascarilla",
+        "categoria": "Fontanería",
+        "precio": 323501,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Mascarilla"
+    },
+    {
+        "nombre": "Cemento",
+        "categoria": "Electricidad",
+        "precio": 354505,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Cemento"
+    },
+    {
+        "nombre": "Guantes de trabajo",
+        "categoria": "Seguridad industrial",
+        "precio": 313961,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Guantes+de+trabajo"
+    },
+    {
+        "nombre": "Gafas de seguridad",
+        "categoria": "Herramientas eléctricas",
+        "precio": 280434,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Gafas+de+seguridad"
+    },
+    {
+        "nombre": "Arandela",
+        "categoria": "Pinturas y acabados",
+        "precio": 452033,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Arandela"
+    },
+    {
+        "nombre": "Tornillo",
+        "categoria": "Jardinería",
+        "precio": 285002,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Tornillo"
+    },
+    {
+        "nombre": "Manguera",
+        "categoria": "Fontanería",
+        "precio": 75902,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Manguera"
+    },
+    {
+        "nombre": "Tomacorriente",
+        "categoria": "Herramientas eléctricas",
+        "precio": 144679,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Tomacorriente"
+    },
+    {
+        "nombre": "Nivel",
+        "categoria": "Fontanería",
+        "precio": 21370,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Nivel"
+    },
+    {
+        "nombre": "Tomacorriente",
+        "categoria": "Jardinería",
+        "precio": 54065,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Tomacorriente"
+    },
+    {
+        "nombre": "Arandela",
+        "categoria": "Materiales de construcción",
+        "precio": 420525,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Arandela"
+    },
+    {
+        "nombre": "Llave inglesa",
+        "categoria": "Electricidad",
+        "precio": 263282,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Llave+inglesa"
+    },
+    {
+        "nombre": "Canaleta",
+        "categoria": "Seguridad industrial",
+        "precio": 33756,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Canaleta"
+    },
+    {
+        "nombre": "Brocha",
+        "categoria": "Materiales de construcción",
+        "precio": 296158,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Brocha"
+    },
+    {
+        "nombre": "Ladrillo",
+        "categoria": "Materiales de construcción",
+        "precio": 139704,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Ladrillo"
+    },
+    {
+        "nombre": "Martillo",
+        "categoria": "Pinturas y acabados",
+        "precio": 142075,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Martillo"
+    },
+    {
+        "nombre": "Arandela",
+        "categoria": "Electricidad",
+        "precio": 31010,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Arandela"
+    },
+    {
+        "nombre": "Taladro",
+        "categoria": "Herramientas manuales",
+        "precio": 319450,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Taladro"
+    },
+    {
+        "nombre": "Canaleta",
+        "categoria": "Herramientas manuales",
+        "precio": 433134,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Canaleta"
+    },
+    {
+        "nombre": "Taladro",
+        "categoria": "Herramientas manuales",
+        "precio": 75995,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Taladro"
+    },
+    {
+        "nombre": "Gafas de seguridad",
+        "categoria": "Herramientas eléctricas",
+        "precio": 38422,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Gafas+de+seguridad"
+    },
+    {
+        "nombre": "Arandela",
+        "categoria": "Herramientas manuales",
+        "precio": 11586,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Arandela"
+    },
+    {
+        "nombre": "Tubos PVC",
+        "categoria": "Fontanería",
+        "precio": 74918,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Tubos+PVC"
+    },
+    {
+        "nombre": "Bloque",
+        "categoria": "Fontanería",
+        "precio": 131968,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Bloque"
+    },
+    {
+        "nombre": "Destornillador",
+        "categoria": "Herramientas eléctricas",
+        "precio": 28582,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Destornillador"
+    },
+    {
+        "nombre": "Pintura vinílica",
+        "categoria": "Herramientas eléctricas",
+        "precio": 101573,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pintura+vinílica"
+    },
+    {
+        "nombre": "Grava",
+        "categoria": "Seguridad industrial",
+        "precio": 115230,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Grava"
+    },
+    {
+        "nombre": "Pegamento epóxico",
+        "categoria": "Electricidad",
+        "precio": 311680,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pegamento+epóxico"
+    },
+    {
+        "nombre": "Sierra eléctrica",
+        "categoria": "Materiales de construcción",
+        "precio": 325395,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Sierra+eléctrica"
+    },
+    {
+        "nombre": "Compresor de aire",
+        "categoria": "Pinturas y acabados",
+        "precio": 446495,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Compresor+de+aire"
+    },
+    {
+        "nombre": "Válvula",
+        "categoria": "Seguridad industrial",
+        "precio": 322493,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Válvula"
+    },
+    {
+        "nombre": "Casco de seguridad",
+        "categoria": "Herramientas eléctricas",
+        "precio": 262687,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Casco+de+seguridad"
+    },
+    {
+        "nombre": "Sierra eléctrica",
+        "categoria": "Seguridad industrial",
+        "precio": 91394,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Sierra+eléctrica"
+    },
+    {
+        "nombre": "Pulidora",
+        "categoria": "Electricidad",
+        "precio": 352084,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pulidora"
+    },
+    {
+        "nombre": "Tomacorriente",
+        "categoria": "Seguridad industrial",
+        "precio": 312298,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Tomacorriente"
+    },
+    {
+        "nombre": "Nivel",
+        "categoria": "Herramientas manuales",
+        "precio": 175135,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Nivel"
+    },
+    {
+        "nombre": "Pistola de calor",
+        "categoria": "Herramientas manuales",
+        "precio": 195599,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pistola+de+calor"
+    },
+    {
+        "nombre": "Espátula",
+        "categoria": "Herramientas eléctricas",
+        "precio": 259365,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Espátula"
+    },
+    {
+        "nombre": "Soldador eléctrico",
+        "categoria": "Materiales de construcción",
+        "precio": 207680,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Soldador+eléctrico"
+    },
+    {
+        "nombre": "Pintura vinílica",
+        "categoria": "Jardinería",
+        "precio": 186360,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pintura+vinílica"
+    },
+    {
+        "nombre": "Ladrillo",
+        "categoria": "Herramientas eléctricas",
+        "precio": 185585,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Ladrillo"
+    },
+    {
+        "nombre": "Pintura vinílica",
+        "categoria": "Pinturas y acabados",
+        "precio": 75332,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pintura+vinílica"
+    },
+    {
+        "nombre": "Clavos",
+        "categoria": "Materiales de construcción",
+        "precio": 345150,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Clavos"
+    },
+    {
+        "nombre": "Pulidora",
+        "categoria": "Herramientas eléctricas",
+        "precio": 348062,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pulidora"
+    },
+    {
+        "nombre": "Destornillador",
+        "categoria": "Jardinería",
+        "precio": 219017,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Destornillador"
+    },
+    {
+        "nombre": "Brocha",
+        "categoria": "Electricidad",
+        "precio": 211150,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Brocha"
+    },
+    {
+        "nombre": "Escalera",
+        "categoria": "Electricidad",
+        "precio": 248767,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Escalera"
+    },
+    {
+        "nombre": "Bloque",
+        "categoria": "Herramientas manuales",
+        "precio": 324263,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Bloque"
+    },
+    {
+        "nombre": "Manguera",
+        "categoria": "Herramientas manuales",
+        "precio": 97654,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Manguera"
+    },
+    {
+        "nombre": "Pulidora",
+        "categoria": "Electricidad",
+        "precio": 197849,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pulidora"
+    },
+    {
+        "nombre": "Pulidora",
+        "categoria": "Herramientas manuales",
+        "precio": 221041,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pulidora"
+    },
+    {
+        "nombre": "Brocha",
+        "categoria": "Materiales de construcción",
+        "precio": 431175,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Brocha"
+    },
+    {
+        "nombre": "Amoladora",
+        "categoria": "Pinturas y acabados",
+        "precio": 183095,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Amoladora"
+    },
+    {
+        "nombre": "Cable eléctrico",
+        "categoria": "Fontanería",
+        "precio": 31554,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Cable+eléctrico"
+    },
+    {
+        "nombre": "Tornillo",
+        "categoria": "Pinturas y acabados",
+        "precio": 349631,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Tornillo"
+    },
+    {
+        "nombre": "Rastrillo",
+        "categoria": "Pinturas y acabados",
+        "precio": 484389,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Rastrillo"
+    },
+    {
+        "nombre": "Guantes de trabajo",
+        "categoria": "Electricidad",
+        "precio": 199314,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Guantes+de+trabajo"
+    },
+    {
+        "nombre": "Rodillo de pintura",
+        "categoria": "Seguridad industrial",
+        "precio": 119621,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Rodillo+de+pintura"
+    },
+    {
+        "nombre": "Cemento",
+        "categoria": "Jardinería",
+        "precio": 163288,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Cemento"
+    },
+    {
+        "nombre": "Cable eléctrico",
+        "categoria": "Herramientas manuales",
+        "precio": 472125,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Cable+eléctrico"
+    },
+    {
+        "nombre": "Compresor de aire",
+        "categoria": "Herramientas eléctricas",
+        "precio": 409399,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Compresor+de+aire"
+    },
+    {
+        "nombre": "Tuerca",
+        "categoria": "Electricidad",
+        "precio": 485423,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Tuerca"
+    },
+    {
+        "nombre": "Tubos PVC",
+        "categoria": "Herramientas eléctricas",
+        "precio": 16202,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Tubos+PVC"
+    },
+    {
+        "nombre": "Taladro",
+        "categoria": "Electricidad",
+        "precio": 150084,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Taladro"
+    },
+    {
+        "nombre": "Tornillo",
+        "categoria": "Fontanería",
+        "precio": 72344,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Tornillo"
+    },
+    {
+        "nombre": "Casco de seguridad",
+        "categoria": "Electricidad",
+        "precio": 162423,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Casco+de+seguridad"
+    },
+    {
+        "nombre": "Guantes de trabajo",
+        "categoria": "Herramientas manuales",
+        "precio": 168368,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Guantes+de+trabajo"
+    },
+    {
+        "nombre": "Nivel",
+        "categoria": "Electricidad",
+        "precio": 38685,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Nivel"
+    },
+    {
+        "nombre": "Rodillo de pintura",
+        "categoria": "Jardinería",
+        "precio": 225122,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Rodillo+de+pintura"
+    },
+    {
+        "nombre": "Rastrillo",
+        "categoria": "Fontanería",
+        "precio": 232764,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Rastrillo"
+    },
+    {
+        "nombre": "Espátula",
+        "categoria": "Pinturas y acabados",
+        "precio": 372284,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Espátula"
+    },
+    {
+        "nombre": "Mascarilla",
+        "categoria": "Herramientas eléctricas",
+        "precio": 368074,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Mascarilla"
+    },
+    {
+        "nombre": "Alicate",
+        "categoria": "Herramientas eléctricas",
+        "precio": 211130,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Alicate"
+    },
+    {
+        "nombre": "Pegamento epóxico",
+        "categoria": "Materiales de construcción",
+        "precio": 318389,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pegamento+epóxico"
+    },
+    {
+        "nombre": "Rodillo de pintura",
+        "categoria": "Fontanería",
+        "precio": 123577,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Rodillo+de+pintura"
+    },
+    {
+        "nombre": "Pulidora",
+        "categoria": "Pinturas y acabados",
+        "precio": 482366,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pulidora"
+    },
+    {
+        "nombre": "Tuerca",
+        "categoria": "Electricidad",
+        "precio": 318123,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Tuerca"
+    },
+    {
+        "nombre": "Arena",
+        "categoria": "Jardinería",
+        "precio": 16499,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Arena"
+    },
+    {
+        "nombre": "Espátula",
+        "categoria": "Seguridad industrial",
+        "precio": 29445,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Espátula"
+    },
+    {
+        "nombre": "Soldador eléctrico",
+        "categoria": "Jardinería",
+        "precio": 373934,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Soldador+eléctrico"
+    },
+    {
+        "nombre": "Canaleta",
+        "categoria": "Seguridad industrial",
+        "precio": 413421,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Canaleta"
+    },
+    {
+        "nombre": "Nivel",
+        "categoria": "Herramientas eléctricas",
+        "precio": 105741,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Nivel"
+    },
+    {
+        "nombre": "Cinta métrica",
+        "categoria": "Electricidad",
+        "precio": 458501,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Cinta+métrica"
+    },
+    {
+        "nombre": "Guantes de trabajo",
+        "categoria": "Jardinería",
+        "precio": 433026,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Guantes+de+trabajo"
+    },
+    {
+        "nombre": "Pulidora",
+        "categoria": "Fontanería",
+        "precio": 59865,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pulidora"
+    },
+    {
+        "nombre": "Pegamento epóxico",
+        "categoria": "Herramientas eléctricas",
+        "precio": 10426,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pegamento+epóxico"
+    },
+    {
+        "nombre": "Pintura vinílica",
+        "categoria": "Herramientas manuales",
+        "precio": 178425,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Pintura+vinílica"
+    },
+    {
+        "nombre": "Grava",
+        "categoria": "Electricidad",
+        "precio": 72148,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Grava"
+    },
+    {
+        "nombre": "Tuerca",
+        "categoria": "Herramientas eléctricas",
+        "precio": 251982,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Tuerca"
+    },
+    {
+        "nombre": "Extensión eléctrica",
+        "categoria": "Jardinería",
+        "precio": 459981,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Extensión+eléctrica"
+    },
+    {
+        "nombre": "Brocha",
+        "categoria": "Electricidad",
+        "precio": 152138,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Brocha"
+    },
+    {
+        "nombre": "Brocha",
+        "categoria": "Electricidad",
+        "precio": 8481,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Brocha"
+    },
+    {
+        "nombre": "Arena",
+        "categoria": "Herramientas eléctricas",
+        "precio": 425625,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Arena"
+    },
+    {
+        "nombre": "Cable eléctrico",
+        "categoria": "Fontanería",
+        "precio": 481846,
+        "url_foto": "https://dummyimage.com/600x400/000/fff&text=Cable+eléctrico"
+    }
+]
