@@ -1,0 +1,134 @@
+[
+    {
+        "nombre": "Lewis Hamilton",
+        "nacionalidad": "Británica",
+        "equipo": "Mercedes",
+        "foto": "https://example.com/hamilton.jpg",
+        "resultados": {
+            "carreras_ganadas": 96,
+            "podios": 66,
+            "poles": 54
+        }
+    },
+    {
+        "nombre": "Max Verstappen",
+        "nacionalidad": "Neerlandesa",
+        "equipo": "Red Bull Racing",
+        "foto": "https://example.com/verstappen.jpg",
+        "resultados": {
+            "carreras_ganadas": 14,
+            "podios": 125,
+            "poles": 9
+        }
+    },
+    {
+        "nombre": "Sebastian Vettel",
+        "nacionalidad": "Alemana",
+        "equipo": "Ferrari",
+        "foto": "https://example.com/vettel.jpg",
+        "resultados": {
+            "carreras_ganadas": 40,
+            "podios": 125,
+            "poles": 6
+        }
+    },
+    {
+        "nombre": "Fernando Alonso",
+        "nacionalidad": "Española",
+        "equipo": "Aston Martin",
+        "foto": "https://example.com/alonso.jpg",
+        "resultados": {
+            "carreras_ganadas": 69,
+            "podios": 17,
+            "poles": 59
+        }
+    },
+    {
+        "nombre": "Charles Leclerc",
+        "nacionalidad": "Monegasca",
+        "equipo": "Ferrari",
+        "foto": "https://example.com/leclerc.jpg",
+        "resultados": {
+            "carreras_ganadas": 26,
+            "podios": 34,
+            "poles": 66
+        }
+    },
+    {
+        "nombre": "Sergio Pérez",
+        "nacionalidad": "Mexicana",
+        "equipo": "Red Bull Racing",
+        "foto": "https://example.com/perez.jpg",
+        "resultados": {
+            "carreras_ganadas": 12,
+            "podios": 95,
+            "poles": 61
+        }
+    },
+    {
+        "nombre": "Carlos Sainz",
+        "nacionalidad": "Española",
+        "equipo": "Ferrari",
+        "foto": "https://example.com/sainz.jpg",
+        "resultados": {
+            "carreras_ganadas": 40,
+            "podios": 113,
+            "poles": 5
+        }
+    },
+    {
+        "nombre": "Valtteri Bottas",
+        "nacionalidad": "Finlandesa",
+        "equipo": "Alfa Romeo",
+        "foto": "https://example.com/bottas.jpg",
+        "resultados": {
+            "carreras_ganadas": 16,
+            "podios": 35,
+            "poles": 35
+        }
+    },
+    {
+        "nombre": "George Russell",
+        "nacionalidad": "Británica",
+        "equipo": "Mercedes",
+        "foto": "https://example.com/russell.jpg",
+        "resultados": {
+            "carreras_ganadas": 79,
+            "podios": 46,
+            "poles": 24
+        }
+    },
+    {
+        "nombre": "Daniel Ricciardo",
+        "nacionalidad": "Australiana",
+        "equipo": "McLaren",
+        "foto": "https://example.com/ricciardo.jpg",
+        "resultados": {
+            "carreras_ganadas": 0,
+            "podios": 69,
+            "poles": 0
+        }
+    },
+    {
+        "nombre": "Lando Norris",
+        "nacionalidad": "Británica",
+        "equipo": "McLaren",
+        "foto": "https://example.com/norris.jpg",
+        "resultados": {
+            "carreras_ganadas": 17,
+            "podios": 90,
+            "poles": 65
+        }
+    },
+    {
+        "nombre": "Kimi Räikkönen",
+        "nacionalidad": "Finlandesa",
+        "equipo": "Alfa Romeo",
+        "foto": "https://example.com/raikkonen.jpg",
+        "resultados": {
+            "carreras_ganadas": 85,
+            "podios": 4,
+            "poles": 54
+        }
+    }
+]
