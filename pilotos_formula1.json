@@ -1,134 +1,202 @@
 [
-    {
-        "nombre": "Lewis Hamilton",
-        "nacionalidad": "Británica",
-        "equipo": "Mercedes",
-        "foto": "https://example.com/hamilton.jpg",
-        "resultados": {
-            "carreras_ganadas": 96,
-            "podios": 66,
-            "poles": 54
-        }
-    },
-    {
-        "nombre": "Max Verstappen",
-        "nacionalidad": "Neerlandesa",
-        "equipo": "Red Bull Racing",
-        "foto": "https://example.com/verstappen.jpg",
-        "resultados": {
-            "carreras_ganadas": 14,
-            "podios": 125,
-            "poles": 9
-        }
-    },
-    {
-        "nombre": "Sebastian Vettel",
-        "nacionalidad": "Alemana",
-        "equipo": "Ferrari",
-        "foto": "https://example.com/vettel.jpg",
-        "resultados": {
-            "carreras_ganadas": 40,
-            "podios": 125,
-            "poles": 6
-        }
-    },
-    {
-        "nombre": "Fernando Alonso",
-        "nacionalidad": "Española",
-        "equipo": "Aston Martin",
-        "foto": "https://example.com/alonso.jpg",
-        "resultados": {
-            "carreras_ganadas": 69,
-            "podios": 17,
-            "poles": 59
-        }
-    },
-    {
-        "nombre": "Charles Leclerc",
-        "nacionalidad": "Monegasca",
-        "equipo": "Ferrari",
-        "foto": "https://example.com/leclerc.jpg",
-        "resultados": {
-            "carreras_ganadas": 26,
-            "podios": 34,
-            "poles": 66
-        }
-    },
-    {
-        "nombre": "Sergio Pérez",
-        "nacionalidad": "Mexicana",
-        "equipo": "Red Bull Racing",
-        "foto": "https://example.com/perez.jpg",
-        "resultados": {
-            "carreras_ganadas": 12,
-            "podios": 95,
-            "poles": 61
-        }
-    },
-    {
-        "nombre": "Carlos Sainz",
-        "nacionalidad": "Española",
-        "equipo": "Ferrari",
-        "foto": "https://example.com/sainz.jpg",
-        "resultados": {
-            "carreras_ganadas": 40,
-            "podios": 113,
-            "poles": 5
-        }
-    },
-    {
-        "nombre": "Valtteri Bottas",
-        "nacionalidad": "Finlandesa",
-        "equipo": "Alfa Romeo",
-        "foto": "https://example.com/bottas.jpg",
-        "resultados": {
-            "carreras_ganadas": 16,
-            "podios": 35,
-            "poles": 35
-        }
-    },
-    {
-        "nombre": "George Russell",
-        "nacionalidad": "Británica",
-        "equipo": "Mercedes",
-        "foto": "https://example.com/russell.jpg",
-        "resultados": {
-            "carreras_ganadas": 79,
-            "podios": 46,
-            "poles": 24
-        }
-    },
-    {
-        "nombre": "Daniel Ricciardo",
-        "nacionalidad": "Australiana",
-        "equipo": "McLaren",
-        "foto": "https://example.com/ricciardo.jpg",
-        "resultados": {
-            "carreras_ganadas": 0,
-            "podios": 69,
-            "poles": 0
-        }
-    },
-    {
-        "nombre": "Lando Norris",
-        "nacionalidad": "Británica",
-        "equipo": "McLaren",
-        "foto": "https://example.com/norris.jpg",
-        "resultados": {
-            "carreras_ganadas": 17,
-            "podios": 90,
-            "poles": 65
-        }
-    },
-    {
-        "nombre": "Kimi Räikkönen",
-        "nacionalidad": "Finlandesa",
-        "equipo": "Alfa Romeo",
-        "foto": "https://example.com/raikkonen.jpg",
-        "resultados": {
-            "carreras_ganadas": 85,
-            "podios": 4,
-            "poles": 54
-        }
-    }
+  {
+    "nombre": "Lewis",
+    "apellido": "Hamilton",
+    "fecha_nacimiento": "1985-01-07",
+    "nacionalidad": "Británico",
+    "equipos": ["McLaren", "Mercedes"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Lewis_Hamilton_2022_S%C3%A3o_Paulo_Grand_Prix_%2852498120773%29_%28cropped%29.jpg/640px-Lewis_Hamilton_2022_S%C3%A3o_Paulo_Grand_Prix_%2852498120773%29_%28cropped%29.jpg",
+    "poles": 104,
+    "victorias": 103
+  },
+  {
+    "nombre": "Max",
+    "apellido": "Verstappen",
+    "fecha_nacimiento": "1997-09-30",
+    "nacionalidad": "Neerlandés",
+    "equipos": ["Toro Rosso", "Red Bull"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Max_Verstappen_2017_Malaysia_3.jpg/600px-Max_Verstappen_2017_Malaysia_3.jpg?20171105154005",
+    "poles": 40,
+    "victorias": 61
+  },
+  {
+    "nombre": "Charles",
+    "apellido": "Leclerc",
+    "fecha_nacimiento": "1997-10-16",
+    "nacionalidad": "Monegasco",
+    "equipos": ["Sauber", "Ferrari"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Charles_Leclerc_2024.jpg",
+    "poles": 23,
+    "victorias": 5
+  },
+  {
+    "nombre": "Carlos",
+    "apellido": "Sainz",
+    "fecha_nacimiento": "1994-09-01",
+    "nacionalidad": "Español",
+    "equipos": ["Toro Rosso", "Renault", "McLaren", "Ferrari"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Formula1Gabelhofen2022_%2804%29.jpg/800px-Formula1Gabelhofen2022_%2804%29.jpg",
+    "poles": 3,
+    "victorias": 2
+  },
+  {
+    "nombre": "Fernando",
+    "apellido": "Alonso",
+    "fecha_nacimiento": "1981-07-29",
+    "nacionalidad": "Español",
+    "equipos": ["Minardi", "Renault", "McLaren", "Ferrari", "Alpine", "Aston Martin"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Fernando_Alonso_2010_Malaysia.jpg",
+    "poles": 22,
+    "victorias": 32
+  },
+  {
+    "nombre": "George",
+    "apellido": "Russell",
+    "fecha_nacimiento": "1998-02-15",
+    "nacionalidad": "Británico",
+    "equipos": ["Williams", "Mercedes"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/f/f3/KingsLeonSilverstne040724_%2829_of_112%29_%2853838190205%29_%28cropped%29.jpg",
+    "poles": 2,
+    "victorias": 1
+  },
+  {
+    "nombre": "Lando",
+    "apellido": "Norris",
+    "fecha_nacimiento": "1999-11-13",
+    "nacionalidad": "Británico",
+    "equipos": ["McLaren"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/7/70/2024-08-25_Motorsport%2C_Formel_1%2C_Gro%C3%9Fer_Preis_der_Niederlande_2024_STP_4016_by_Stepro_%28cropped%29.jpg",
+    "poles": 1,
+    "victorias": 1
+  },
+  {
+    "nombre": "Valtteri",
+    "apellido": "Bottas",
+    "fecha_nacimiento": "1989-08-28",
+    "nacionalidad": "Finlandés",
+    "equipos": ["Williams", "Mercedes", "Alfa Romeo"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Valtteri_Bottas_at_the_2022_Austrian_Grand_Prix.jpg",
+    "poles": 20,
+    "victorias": 10
+  },
+  {
+    "nombre": "Sergio",
+    "apellido": "Pérez",
+    "fecha_nacimiento": "1990-01-26",
+    "nacionalidad": "Mexicano",
+    "equipos": ["Sauber", "McLaren", "Force India", "Racing Point", "Red Bull"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/f/f3/2019_Formula_One_tests_Barcelona%2C_P%C3%A9rez_%2847200017422%29.jpg",
+    "poles": 3,
+    "victorias": 6
+  },
+  {
+    "nombre": "Esteban",
+    "apellido": "Ocon",
+    "fecha_nacimiento": "1996-09-17",
+    "nacionalidad": "Francés",
+    "equipos": ["Manor", "Force India", "Renault", "Alpine"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/e/e8/FIA_F1_Austria_2022_Drivers_Parade_%281%29_%28cropped%29.jpg",
+    "poles": 0,
+    "victorias": 1
+  },
+  {
+    "nombre": "Pierre",
+    "apellido": "Gasly",
+    "fecha_nacimiento": "1996-02-07",
+    "nacionalidad": "Francés",
+    "equipos": ["Toro Rosso", "Red Bull", "AlphaTauri", "Alpine"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/7/70/2022_French_Grand_Prix_%2852279065728%29_%28cropped%29.png",
+    "poles": 0,
+    "victorias": 1
+  },
+  {
+    "nombre": "Sebastian",
+    "apellido": "Vettel",
+    "fecha_nacimiento": "1987-07-03",
+    "nacionalidad": "Alemán",
+    "equipos": ["BMW Sauber", "Toro Rosso", "Red Bull", "Ferrari", "Aston Martin"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/e/e3/Sebastian_Vettel_-_2022236172324-resized_2022-08-24_Champions_for_Charity_-_Sven_-_1D_X_MK_II_-_0418_-_B70I2428.jpg",
+    "poles": 57,
+    "victorias": 53
+  },
+  {
+    "nombre": "Kimi",
+    "apellido": "Räikkönen",
+    "fecha_nacimiento": "1979-10-17",
+    "nacionalidad": "Finlandés",
+    "equipos": ["Sauber", "McLaren", "Ferrari", "Lotus", "Alfa Romeo"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Kimi_Raikkonen_2016_Malaysia_2.jpg",
+    "poles": 18,
+    "victorias": 21
+  },
+  {
+    "nombre": "Nico",
+    "apellido": "Rosberg",
+    "fecha_nacimiento": "1985-06-27",
+    "nacionalidad": "Alemán",
+    "equipos": ["Williams", "Mercedes"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Pressetermin_Lukas_Podolski_und_Nico_Rosberg%2C_Airport_K%C3%B6ln-Bonn-7041.jpg",
+    "poles": 30,
+    "victorias": 23
+  },
+  {
+    "nombre": "Daniel",
+    "apellido": "Ricciardo",
+    "fecha_nacimiento": "1989-07-01",
+    "nacionalidad": "Australiano",
+    "equipos": ["HRT", "Toro Rosso", "Red Bull", "Renault", "McLaren"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Daniel_Ricciardo_January_2024.jpg",
+    "poles": 3,
+    "victorias": 8
+  },
+  {
+    "nombre": "Kevin",
+    "apellido": "Magnussen",
+    "fecha_nacimiento": "1992-10-05",
+    "nacionalidad": "Danés",
+    "equipos": ["McLaren", "Renault", "Haas"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/2/22/FIA_F1_Austria_2022_Magnussen_%28cropped%29.jpg",
+    "poles": 0,
+    "victorias": 0
+  },
+  {
+    "nombre": "Alexander",
+    "apellido": "Albon",
+    "fecha_nacimiento": "1996-03-23",
+    "nacionalidad": "Tailandés",
+    "equipos": ["Toro Rosso", "Red Bull", "Williams"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Alex_Albon_%28cropped%29.jpg",
+    "poles": 0,
+    "victorias": 0
+  },
+  {
+    "nombre": "Juan Pablo",
+    "apellido": "Montoya",
+    "fecha_nacimiento": "1975-09-20",
+    "nacionalidad": "Colombiano",
+    "equipos": ["Williams", "McLaren"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/9/9a/Juan_Pablo_Montoya_at_2021_Indianapolis_500_%2851222252077%29_%28cropped%29.jpg",
+    "poles": 13,
+    "victorias": 7
+  },
+  {
+    "nombre": "Michael",
+    "apellido": "Schumacher",
+    "fecha_nacimiento": "1969-01-03",
+    "nacionalidad": "Alemán",
+    "equipos": ["Jordan", "Benetton", "Ferrari", "Mercedes"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Schumacher_china_2012_crop.jpg",
+    "poles": 68,
+    "victorias": 91
+  },
+  {
+    "nombre": "Ayrton",
+    "apellido": "Senna",
+    "fecha_nacimiento": "1960-03-21",
+    "nacionalidad": "Brasileño",
+    "equipos": ["Toleman", "Lotus", "McLaren", "Williams"],
+    "foto": "https://upload.wikimedia.org/wikipedia/commons/9/9f/Ayrton_Senna_Pesawat_RC_Cropped.jpg",
+    "poles": 65,
+    "victorias": 41
+  }
 ]
