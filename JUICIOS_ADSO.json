@@ -1,7 +1,4 @@
-[{
-  "_id": {
-    "$oid": "68e30b9eb74569a8461698fb"
-  },
+{  
   "fichas": [
     {
       "codigo": 2874057,
@@ -16,4 +13,4 @@
       "url": "https://raw.githubusercontent.com/CesarMCuellarCha/apis/refs/heads/main/ADSO_JUICIOS_3064975.json"
     }
   ]
-}]
+}
